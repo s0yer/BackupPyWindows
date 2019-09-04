@@ -1,5 +1,7 @@
-# Script para copiar arquivos, comprimir e armazenar em local definido 
+# Script para copiar arquivos e armazenar em local definido 
+# implementação também para compressão de arquivos
 # para python 2.7
+
 
 import os
 import zipfile
